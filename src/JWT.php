@@ -15,10 +15,9 @@ use \DateTime;
  *
  * @category Authentication
  * @package  Authentication_JWT
- * @author   Neuman Vong <neuman@twilio.com>
- * @author   Anant Narayanan <anant@php.net>
+ * @author   Senthil Prabu <senthilprabu@heptagon.in>
  * @license  http://opensource.org/licenses/BSD-3-Clause 3-clause BSD
- * @link     https://github.com/firebase/php-jwt
+ * @link     https://github.com/heptagon-firebase/php-jwt
  */
 class JWT
 {

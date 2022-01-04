@@ -13,9 +13,9 @@ use UnexpectedValueException;
  *
  * @category Authentication
  * @package  Authentication_JWT
- * @author   Bui Sy Nguyen <nguyenbs@gmail.com>
+ * @author   Senthil Prabu <senthilprabu@heptagon.in>
  * @license  http://opensource.org/licenses/BSD-3-Clause 3-clause BSD
- * @link     https://github.com/firebase/php-jwt
+ * @link     https://github.com/heptagon-firebase/php-jwt
  */
 class JWK
 {
